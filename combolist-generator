@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const randomstring = require('randomstring');
 const random_name = require('node-random-name');
 const starwars = require('starwars-names');
