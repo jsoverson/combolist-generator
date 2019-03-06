@@ -1,6 +1,6 @@
 {
   "name": "combolist-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "keywords": ["credentials", "credential stuffing", "combolist", "generator", "passwords"],
