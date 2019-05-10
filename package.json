@@ -1,6 +1,6 @@
 {
   "name": "combolist-generator",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "",
   "main": "combolist-generator",
   "keywords": ["credentials", "credential stuffing", "combolist", "generator", "passwords"],
